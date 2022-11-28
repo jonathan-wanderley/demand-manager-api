@@ -11,18 +11,12 @@
     "url": "git+https://github.com/jonathan-wanderley/demand-manager-api.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonathan Wanderley",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jonathan-wanderley/demand-manager-api/issues"
-  },
-  "homepage": "https://github.com/jonathan-wanderley/demand-manager-api#readme",
   "dependencies": {
-    "-": "^0.0.1",
-    "D": "^1.0.0",
-    "jest": "^29.3.1"
   },
   "devDependencies": {
-    "@types/jest": "^29.2.3"
+    "@types/jest": "^29.2.3",
+    "jest": "^29.3.1"
   }
 }
